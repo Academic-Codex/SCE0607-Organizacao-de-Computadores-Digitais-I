@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://academic-codex.github.io/SEL0607-Organizacao-De-Computadores">
-    <img src=".github/readme/hero.svg?v=2025-12-28T18:33:25.531851Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2025-12-28T18:35:06.365849Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
