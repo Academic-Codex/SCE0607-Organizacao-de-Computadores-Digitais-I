@@ -3,8 +3,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://Academic-Codex.github.io/SCE0607-Organizacao-de-Computadores-Digitais-I">
-    <img src=".github/readme/hero.svg?v=2026-01-08T01:40:27.450706Z" width="100%" alt="Access the course website" />
+  <a href="https://academic-codex.github.io/SCE0607-Organizacao-de-Computadores-Digitais-I?utm_source=SCE0607-Organizacao-de-Computadores-Digitais-I&utm_medium=readme">
+    <img src=".github/readme/hero.svg?v=2026-02-03T01:40:33.703987Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
